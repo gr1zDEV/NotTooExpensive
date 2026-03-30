@@ -1,0 +1,8 @@
+name: NotTooExpensive
+version: '${project.version}'
+main: com.example.nottooexpensive.NotTooExpensivePlugin
+api-version: '1.21'
+authors:
+  - example
+folia-supported: true
+description: Removes the vanilla anvil "Too Expensive!" cap by limiting any cost above 39 down to 39.
